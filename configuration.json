@@ -1,5 +1,6 @@
 {
 	"token": "",
 	"prefix": "",
-	"owner_id": 0
+	"owner_id": 0,
+	"verification_channel_id": 0 
 }
